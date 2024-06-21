@@ -1,12 +1,12 @@
 ![Imagen decorativa de tu perfil](xx)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy TU NOMBRE</h1>
+<h1 align="center">Hola 👋, Soy Patricia</h1>
 <h3 align="center">QUE TE APASIONA</h3>
 
 - 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
 
-- 🌱 ESTOY ESTUDIANDO **INTRODUCE LENGUAJES, FRAMEWORKS**
+- 🌱 ESTOY ESTUDIANDO HTML, CSS y JavaScript**INTRODUCE LENGUAJES, FRAMEWORKS**
 
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
 
